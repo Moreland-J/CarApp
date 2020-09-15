@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p1Uber</string>
+    <string name="title_activity_uber_maps">Map</string>
+    <string name="api_key">AIzaSyAUlz8mYSd6WJL9aYskKvcLZfbAsdOy8Lw</string>
+</resources>
